@@ -6,5 +6,3 @@
 - Css 
 - JavaScript
 
-## Instagram
-- [@inspecionando_](https://instagram.com/inspecionando_?igshid=OGQ5ZDc2ODk2ZA==)
